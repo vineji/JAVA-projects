@@ -1,0 +1,5 @@
+---------------- PLAYER 1 ----------------
+QUESTION 1: 10 points
+QUESTION 2: 10 points
+QUESTION 3: 10 points
+TOTAL: 30 points
